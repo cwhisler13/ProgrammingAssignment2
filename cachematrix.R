@@ -1,3 +1,4 @@
+## This script has two functions that are used to cache the inverse matrix.
 ## The makeCacheMatrix function receives an argument of type matrix and creates an object of type makeCacheMatrix.
 ## The cacheSolve receives an object of type makeCacheMatrix and returns/caches its inverse.
 
